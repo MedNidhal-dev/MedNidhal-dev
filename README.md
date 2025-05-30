@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm MedNidhal 👋
 
-<!--
-**MedNidhal-dev/MedNidhal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
+🌐 **Web Development:** JavaScript, React.js  
+🐍 **Python Enthusiast**  
+🤖 **Exploring Machine Learning**
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate computer science student who loves building modern web applications and exploring the world of AI and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- JavaScript & React.js
+- Python
+- Machine Learning basics
+- HTML & CSS
+
+## 🌟 Featured Project
+
+- [Personal Portfolio](https://github.com/MedNidhal-dev/personal-portfolio):  
+  My personal website showcasing my skills, projects, and journey in tech.
+
+---
+
+*Let’s connect and build something awesome together!*
